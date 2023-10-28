@@ -35,6 +35,6 @@ pip install redis
 ```
 
 ### * Abra o redis ataves do comando redis-cli no seu terminal, após isso digite: subscribe chat. Com isso o redis estará pronto exibir as capturas dos chats
-### * Execute o comando: python3 app.py. Esse comando roda a funcao principal que carrega a pagina de login[subscricao] por nome no chat.
-### * A partir dessa etapa abra quantas abas com sessoes diferentes quiser (Abas privadas criam sessoes diferente no mesmo browser)
+### * Execute o comando: python3 app.py dentro do diretório do repositório baixado. Esse comando roda a funcao principal que carrega a pagina de login[subscricao] por nome no chat.
+### * A partir dessa etapa abra quantas abas com sessoes diferentes quiser e digite na barra de endereços: 127.0.0.1:5000 e ENTER (Abas privadas criam sessoes diferente no mesmo browser)
 ### * Depois de entrar com seu nome e pressionar ENTER, sera redirecionado a pagina do chat onde podera digitar e enviar quantas mensagens quiser para todos que estao conectados com a tecla ENTER.
